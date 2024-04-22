@@ -1,10 +1,10 @@
 {
-  "name": "@zhongjyuan/management",
-  "version": "0.0.1",
-  "description": "Tool for zhongjyuan",
+	"name": "@zhongjyuan/management",
+	"version": "0.0.2",
+	"description": "Tool for zhongjyuan",
 	"homepage": "http://zhongjyuan.club",
 	"license": "Apache-2.0",
-  "main": "index.js",
+	"main": "index.js",
 	"author": {
 		"name": "zhongjyuan",
 		"email": "zhongjyuan@outlook.com",
@@ -36,9 +36,9 @@
 		"typescript",
 		"actionscript"
 	],
-  "scripts": {
-    "publish": "npm publish --access public"
-  },
+	"scripts": {
+		"test": "npm publish --access public"
+	},
 	"engines": {
 		"node": ">= 18.19.0",
 		"npm": ">= 9.6.0"
