@@ -1,6 +1,6 @@
 {
-  "name": "@zhongjyuan/tool",
-  "version": "0.0.5",
+  "name": "@zhongjyuan/management",
+  "version": "0.0.1",
   "description": "Tool for zhongjyuan",
 	"homepage": "http://zhongjyuan.club",
 	"license": "Apache-2.0",
@@ -19,10 +19,10 @@
 	],
 	"repository": {
 		"type": "github",
-		"url": "https://github.com/zhongjyuan/tool"
+		"url": "https://github.com/zhongjyuan/management"
 	},
 	"bugs": {
-		"url": "https://github.com/zhongjyuan/tool/issues",
+		"url": "https://github.com/zhongjyuan/management/issues",
 		"email": "zhongjyuan@outlook.com"
 	},
 	"keywords": [
