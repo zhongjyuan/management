@@ -1,0 +1,46 @@
+{
+  "name": "@zhongjyuan/tool",
+  "version": "0.0.5",
+  "description": "Tool for zhongjyuan",
+	"homepage": "http://zhongjyuan.club",
+	"license": "Apache-2.0",
+  "main": "index.js",
+	"author": {
+		"name": "zhongjyuan",
+		"email": "zhongjyuan@outlook.com",
+		"url": "http://zhongjyuan.club"
+	},
+	"contributors": [
+		{
+			"name": "zhongjyuan",
+			"email": "zhongjyuan@outlook.com",
+			"url": "http://zhongjyuan.club"
+		}
+	],
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/zhongjyuan/tool"
+	},
+	"bugs": {
+		"url": "https://github.com/zhongjyuan/tool/issues",
+		"email": "zhongjyuan@outlook.com"
+	},
+	"keywords": [
+		"zhongjyuan",
+		"workspace",
+		"nodejs",
+		"socketjs",
+		"electronjs",
+		"protobufjs",
+		"javascript",
+		"typescript",
+		"actionscript"
+	],
+  "scripts": {
+    "publish": "npm publish --access public"
+  },
+	"engines": {
+		"node": ">= 18.19.0",
+		"npm": ">= 9.6.0"
+	}
+}
